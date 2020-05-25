@@ -23,13 +23,13 @@
 
 #### 项目创建
 创建一个项目并为其添加三个模块common-api（一般用于放置dto、api接口和工具类等）、provider和consumer，项目结构如下图所示
-![项目结构](http://img.zczy56.com/201907151545247285624.png)  
+![项目结构]()  
 
-![common-api](http://img.zczy56.com/201907151614225087758.png)  
+![common-api]()  
 
-![provider](http://img.zczy56.com/201907151614440233227.png)  
+![provider]()  
 
-![consumer](http://img.zczy56.com/201907151647313275001.png)  
+![consumer]()  
 引入springboot、dubbo、mybatis、mysql-connector等相关依赖后开始coding  
 ##### common-api
 首先从common-api模块开始，根据数据库表结构创建UserDto
@@ -336,10 +336,10 @@ application.properties配置
 #### 测试
 使用postman进行接口测试  
 ###### addUser
-![addUser](http://img.zczy56.com/201907151716272042416.png)
+![addUser]()
 ###### selectUser
-![selectUser](http://img.zczy56.com/201907151717423853610.png)
+![selectUser]()
 ###### updateUser
-![updateUser](http://img.zczy56.com/201907151718319720025.png)
+![updateUser]()
 ###### deleteUser
-![deleteUser](http://img.zczy56.com/201907151719061356817.png)
+![deleteUser]()
