@@ -21,7 +21,7 @@
 
     <properties>
         <lombok.version>1.18.8</lombok.version>
-        <mysql.connector.version>8.0.16</mysql.connector.version>
+        <mysql.connector.version>8.0.28</mysql.connector.version>
         <mybatis.springboot.version>2.0.1</mybatis.springboot.version>
         <dubbo.springboot.starter.version>2.7.1</dubbo.springboot.starter.version>
         <zkclient.version>0.10</zkclient.version>
